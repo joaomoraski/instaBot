@@ -3,7 +3,7 @@ import webbrowser
 import time
 import pyautogui
 
-users = ['ddudaamarcondes', 'taycazotto', 'babugia_dix', 'indiraklepa', 'jeancodel', 'micaelly_om' , 'thays_layne_', 'mariazinha.block', 'gabsbilk', 'mariac_paganini', 'dixx_vitinnn', 'anaamaciiell','aghetone_oceet', 'felipe.ponto', 'varelllinha', 'ju_jamnik', 'iscza', 'clar.a0', 'aliciamichalki', 'annaalcaq', 'juliadher', 'fernandacecyn', 'kethgotts', 'victor_bart19', 'juliana.vv', 'sergiossauro', 'tuhane.novosad', 'tovomate', 'pietrogcf', 'rodolfo_presa', 't3mpest4d3', 'diebarba', 'lucas.faian', 'leticiacolucci_15', 'eevee_lucy', 'deborapicoli','jesszsx', 'milenaplens', 'mariacorrdeiro', 'luishsalomao', 'tiepo.lo', 'jonnifer.feltrin', 'fernanda.dviana', 'celitamoraski', 'bruninha_braz', 'jusubeer', 'sammiancz', 'jvictorrebecchi', 'leogradici', 'faelmilani']
+users = []
 
 webbrowser.open('https://www.instagram.com/p/CBgt0TlhTxR/')
 time.sleep(1.5)
